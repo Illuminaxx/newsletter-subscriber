@@ -1,4 +1,4 @@
-![Screenshot](newsletter-subscriber.PNG)
+![Screenshot](newsletter.PNG)
 
 ## Newsletter Subscriber
 
